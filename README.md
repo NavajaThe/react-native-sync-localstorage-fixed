@@ -12,12 +12,12 @@ https://github.com/yangga/react-native-sync-localstorage
 ```
 
 ## [Installation]
-    npm install --save react-native-sync-localstorage
+    npm i react-native-sync-localstorage-fixed
 
 ## [Usage]
 
 ### 1. Loading stored values at beginnig
-    import localStorage from 'react-native-sync-localstorage'
+    import localStorage from 'react-native-sync-localstorage-fixed'
 
     ...
 
