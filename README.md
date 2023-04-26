@@ -1,5 +1,15 @@
 # react-native-localstorage
-None async local storage
+Sync local storage for React-Native, Expo Compatible (Web, Android, iOS)
+
+### Disclaimer
+
+Original Autor yangga, It was no longer being maintained
+
+```
+
+https://github.com/yangga/react-native-sync-localstorage
+
+```
 
 ## [Installation]
     npm install --save react-native-sync-localstorage
@@ -29,3 +39,9 @@ None async local storage
 
 #### 2-3. Deleting
     localStorage.removeItem('key')
+
+
+
+## TODO
+
+- [x] Make it usable again

@@ -1,26 +1,29 @@
 {
-  "name": "react-native-sync-localstorage",
-  "version": "0.0.3",
-  "description": "None async local storage",
+  "name": "react-native-sync-localstorage-fixed",
+  "version": "2.0.0",
+  "description": "Sync Local Storage",
   "main": "localStorage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yangga/react-native-sync-localstorage.git"
+    "url": "git@github.com:NavajaThe/react-native-sync-localstorage-fixed.git"
   },
   "keywords": [
-    "react",
-    "native",
+    "react-native",
     "local",
     "storage",
+    "local-storage",
     "synchronous"
   ],
-  "author": "https://github.com/yangga",
+  "author": "Habba (NavajaThe)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yangga/react-native-sync-localstorage/issues"
+    "url": "https://github.com/NavajaThe/react-native-sync-localstorage-fixed/issues"
   },
-  "homepage": "https://github.com/yangga/react-native-sync-localstorage#readme"
+  "homepage": "https://github.com/NavajaThe/react-native-sync-localstorage-fixed",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.18.1"
+  }
 }
